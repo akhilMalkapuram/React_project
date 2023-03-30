@@ -1,0 +1,20 @@
+.title{
+ text-align: center; 
+ 
+}
+.tabs-container{
+  display: flex;
+  justify-content: center;
+
+}
+.description{
+  text-align: center;
+  
+}
+.project-list-container{
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right:10px ;
+  justify-content: center;
+} 
