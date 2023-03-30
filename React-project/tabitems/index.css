@@ -1,0 +1,18 @@
+.tab-item-container{
+  padding: 10px;
+  list-style-type: none;
+  background-color: #fff;
+}
+
+#btn{
+  padding: 10px;
+  background-color: #fff;
+  border:1px solid #fff ;
+  text-decoration: underline;
+  font-size: 20px;
+
+}
+button:hover{
+  color: red;
+  cursor: pointer;
+}

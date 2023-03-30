@@ -1,0 +1,29 @@
+body{
+    box-sizing: border-box;
+}
+.social-network-img{
+    height:50px;
+    border-radius: 30px;
+    margin-left: 10PX;
+    
+}
+.nav-menu{
+    list-style-type: none;
+}
+.nav-header{
+    background-color: cornflowerblue;
+    display: flex;
+    width: 100%;
+    justify-content:space-between;
+    
+}
+.nav-content{
+    display: flex;
+    padding-left: 20px;
+    
+    
+}
+.nav-menu{
+    display: flex;
+    padding-left: 1100px;
+}

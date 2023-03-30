@@ -1,0 +1,20 @@
+.project-item-image{
+    height:400px;
+}
+.project-item-details-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-self: center;
+
+    
+}
+.project-item-description{
+    width: 500px;
+}
+
+.project-item-container{
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
